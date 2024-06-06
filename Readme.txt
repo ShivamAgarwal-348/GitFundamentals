@@ -1,3 +1,1 @@
-Hello, Git
-Hi
-added fix
+fix changes
